@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Purpose}{}% 1
+\BOOKMARK [1][-]{section.2}{What is needed}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Software}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Data}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{LEAD-DBS}{}% 5
+\BOOKMARK [1][-]{section.4}{DW-MRI Image Preprocessing}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{MRTRIX Image Correction}{section.4}% 7
+\BOOKMARK [3][-]{subsubsection.4.1.1}{Put together the corrected volumes}{subsection.4.1}% 8
+\BOOKMARK [2][-]{subsection.4.2}{FSL Image Correction}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.3}{Compute Registration Transform and Warp}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.4}{Compute the Diffusion Tensor}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{VTA Estimation}{}% 12
+\BOOKMARK [2][-]{subsection.5.1}{Output files}{section.5}% 13
